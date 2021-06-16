@@ -37,3 +37,17 @@ install use pip
 ```
 pip install -r requirements.txt
 ```
+
+
+
+### run server
+```
+python manage runserver
+```
+### Credential
+for security is not recomende publish credentials here! 
+but this just is an example so
+```
+user: admin
+pass: admin
+```
